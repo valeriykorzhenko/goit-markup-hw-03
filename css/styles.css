@@ -178,6 +178,7 @@ color: #404bbf;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        margin-bottom: 8px;
 }
 
 .features-text {
@@ -230,6 +231,11 @@ color: #404bbf;
 /* footer */
 .page-footer {
     background-color: #2e2f42;
+    padding: 100px 0;
+}
+
+.logo footer-logo {
+    display: inline-block;
 }
 
 .footer-text {
@@ -238,4 +244,5 @@ color: #404bbf;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+        max-width: 264px;
 }
