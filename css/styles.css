@@ -51,6 +51,7 @@ text-decoration: none;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+
 }
 
 .header-logo {
@@ -234,8 +235,9 @@ color: #404bbf;
     padding: 100px 0;
 }
 
-.logo footer-logo {
+.footer-logo {
     display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-text {
