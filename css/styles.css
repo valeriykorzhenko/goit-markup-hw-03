@@ -131,25 +131,25 @@ color: #404bbf;
 }
 
 .hero-button {
-            min-width: 169px;
-                height: 56px;
-                font-weight: 500;
-                font-size: 16px;
-                line-height: 1.5;
-                display: flex;
-                align-items: center;
-                letter-spacing: 0.04em;
-                background-color: #4D5AE5;
-                color: #FFFFFF;
-                cursor: pointer;
-                display: block;
-                margin: 0 auto;
-                padding: 16px 32px;
-                border: none;
-                border-color: #4D5AE5;
-                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-                border-radius: 4px;
-                margin-top: 48px;
+        min-width: 169px;
+        height: 56px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em;
+        background-color: #4d5ae5;
+        color: #fff;
+        cursor: pointer;
+        display: block;
+        margin: 0 auto;
+        padding: 16px 32px;
+        border: none;
+        border-color: #4d5ae5;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+        margin-top: 48px;
 }
 
 .hero-button:hover,
