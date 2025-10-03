@@ -164,7 +164,7 @@ color: #404bbf;
     padding: 120px 0;
     }
 
-.visually-hidden .features {
+.visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
