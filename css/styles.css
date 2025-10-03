@@ -223,7 +223,7 @@ color: #404bbf;
         text-transform: capitalize;
         color: #2e2f42;
         margin-bottom: 72px;
-}
+        }
 
 .team-img {
     background-color: #fff;
@@ -260,6 +260,34 @@ color: #404bbf;
     gap: 24px;
 }
 
+.portfolio {
+            font-weight: 700;
+                font-size: 36px;
+                line-height: 1.11;
+                letter-spacing: 0.02em;
+                text-align: center;
+                text-transform: capitalize;
+                color: #2e2f42;
+                margin-bottom: 72px;
+                padding: 120px 0 120px 0;
+}
+
+.item-portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.portfolio-list {
+    width: calc((100% - 48px) / 3);
+}
+
+.portfolio-app {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+}
 
 /* footer */
 .page-footer {
